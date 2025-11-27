@@ -48,7 +48,7 @@ This project is for educational purposes.
 Please check the Kaggle dataset page for its specific license and usage terms.[web:22]
 
 ## Here are some ScreenShots of Project 
-<img width="864" height="777" alt="Screenshot 2025-08-29 121646" src="https://github.com/user-attachments/assets/0a11575d-3c74-4e4c-b74d-f43ec68983c4" />
-<img width="929" height="822" alt="Screenshot 2025-08-29 121442" src="https://github.com/user-attachments/assets/9e09299b-dcd8-4e7b-9507-41fd5e983b24" />
-<img width="591" height="518" alt="Screenshot 2025-07-13 120751" src="https://github.com/user-attachments/assets/14aff1a2-a840-4def-a230-2d96bff6615c" />
+<img width="300" height="200" alt="Screenshot 2025-08-29 121646" src="https://github.com/user-attachments/assets/0a11575d-3c74-4e4c-b74d-f43ec68983c4" />
+<img width="300" height="200" alt="Screenshot 2025-08-29 121442" src="https://github.com/user-attachments/assets/9e09299b-dcd8-4e7b-9507-41fd5e983b24" />
+<img width="300" height="200" alt="Screenshot 2025-07-13 120751" src="https://github.com/user-attachments/assets/14aff1a2-a840-4def-a230-2d96bff6615c" />
 
