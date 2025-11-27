@@ -1,6 +1,4 @@
 # Apple Defect Detection using ML
-  Apple defect detection and disease classification using CNN models on fruit images.
-# Apple Defect Detection using ML
 
 Detects apples in webcam frames and classifies them into healthy or diseased categories using deep learning.
 
